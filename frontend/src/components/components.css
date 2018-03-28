@@ -1,0 +1,102 @@
+.w3-display-container
+{
+    max-width:1500px;
+}
+.w3-row-padding img
+{
+    height: 250px;
+    width: 100%;
+   }
+.center-block img{
+    height: 250px;
+    width: auto;
+}
+.center-block
+{
+    margin: 0 auto;
+    display: table;
+}
+.w3-content
+{
+    max-width:1564px;
+}
+.col-sm-3 {
+    width: 22%;
+    margin-left: 0.5%;
+    margin-top: 0%;
+    font-size: 20px;
+}
+.row.content {width: 100%}
+
+.sidenav span:hover{
+    background-color: #337ab7;
+    color: white;
+    text-decoration-style: none;
+}
+.sidenav .list-group a{
+    text-decoration: none !important;
+}
+
+/*Agent Info Css*/
+.agentinfo .firstForm form
+{
+    width: 80%;
+}
+.agentinfo .secondForm form
+{
+    width: 153%;
+}
+.card .secondForm{
+    width: 150%;
+}
+.agentinfo .thirdForm form
+{
+    width: 153%;
+}
+
+
+/* Agent Profile Css */
+.agentprofile .checkbox input[type=checkbox]
+{
+    height: 50%;
+    width: 4%;
+}
+.services .checkbox input[type=checkbox]
+{
+    height: 50%;
+    width: 6%;
+}
+.agentprofile .firstForm form
+{
+    width: 150%;
+}
+.agentprofile .firstForm form .checkbox input[type=checkbox]
+{
+    height: 50%;
+    width: 15%;
+}
+
+
+/* Carrier Css */
+.carrierprofile .checkbox input[type=checkbox]
+{
+    height: 50%;
+    width: 6%;
+}
+
+/* Carrier Css*/
+.carrier .firstForm form
+{
+    width: 80%;
+}
+.legendWidth{
+    width: 15%;
+}
+
+/* Contact Css */
+.showContact{
+    width: 16%;
+}
+.errMessage{
+    color: red;
+}

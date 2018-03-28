@@ -1,0 +1,13 @@
+/frontend/node_modules
+/frontend/.idea
+/frontend/package-lock.json
+
+/node_api/node_modules
+/node_api/package-lock.json
+/node_api/.idea
+/node_api/Attachment/*
+!/node_api/Attachment/.gitkeep
+/node_api/npm-debug.log
+/node_api/yarn.lock
+
+/.idea
